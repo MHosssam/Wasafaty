@@ -49,7 +49,7 @@ class CategoryScreen extends StatelessWidget {
                         Text(
                           catData.title,
                           style: TextStyle(
-                            fontSize: 24,
+                            fontSize: 20,
                             fontFamily: 'Raleway',
                             fontWeight: FontWeight.bold,
                           ),
